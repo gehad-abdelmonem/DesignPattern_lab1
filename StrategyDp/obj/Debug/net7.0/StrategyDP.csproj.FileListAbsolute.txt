@@ -1,0 +1,15 @@
+I:\iti\Design Pattern\labs\day1\StrategyDp\bin\Debug\net7.0\StrategyDP.exe
+I:\iti\Design Pattern\labs\day1\StrategyDp\bin\Debug\net7.0\StrategyDP.deps.json
+I:\iti\Design Pattern\labs\day1\StrategyDp\bin\Debug\net7.0\StrategyDP.runtimeconfig.json
+I:\iti\Design Pattern\labs\day1\StrategyDp\bin\Debug\net7.0\StrategyDP.dll
+I:\iti\Design Pattern\labs\day1\StrategyDp\bin\Debug\net7.0\StrategyDP.pdb
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.csproj.AssemblyReference.cache
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.AssemblyInfoInputs.cache
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.AssemblyInfo.cs
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.csproj.CoreCompileInputs.cache
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.dll
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\refint\StrategyDP.dll
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.pdb
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\StrategyDP.genruntimeconfig.cache
+I:\iti\Design Pattern\labs\day1\StrategyDp\obj\Debug\net7.0\ref\StrategyDP.dll
